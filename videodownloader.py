@@ -15,7 +15,6 @@ def MP4LowestResolution(url,path="None"):
             print(f"{e} error! Check https://github.com/pytube/pytube/issues/1954 for solution!")
         else:    
             print(f"Error: {e}")    
-MP4LowestResolution("https://youtu.be/ss6lhSwb-u8")
 def MP4HighestResolution(url,path="None"):
     try:
         yt = YouTube(url)
