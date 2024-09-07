@@ -1,3 +1,6 @@
+![Ekran görüntüsü 2024-09-07 170424](https://github.com/user-attachments/assets/c1b47020-e928-4c8e-b904-2f426782c930)
+
+
 YoutubeFriend is a youtube video downloader which uses pytube library.
 
 # Setup
